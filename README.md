@@ -4,7 +4,7 @@
 ![OSINT](https://img.shields.io/badge/Spécialité-OSINT-green)
 ![Projet](https://img.shields.io/badge/Type-Projet_académique-orange)
 
-## 📌 Présentation du projet
+##  Présentation du projet
 
 Ce projet académique, réalisé dans le cadre de ma formation d'ingénieur en cybersécurité à l'EFREI Paris, porte sur l'utilisation des techniques d'Open Source Intelligence (OSINT) pour analyser l'exposition numérique d'une organisation.
 
@@ -14,7 +14,7 @@ L'objectif est de comprendre comment des informations accessibles publiquement p
 
 > **Cadre éthique :** cette étude repose sur des sources publiques et des méthodes de reconnaissance passive. Elle ne constitue ni un audit mandaté par TEHTRIS, ni une démonstration de vulnérabilités exploitables. Les observations sont historiques et ne décrivent pas nécessairement l'état actuel de l'infrastructure.
 
-## 🎯 Objectifs
+##  Objectifs
 
 - Collecter des informations publiques sur l'environnement numérique de l'organisation.
 - Identifier les domaines, sous-domaines, services et technologies visibles.
@@ -23,7 +23,7 @@ L'objectif est de comprendre comment des informations accessibles publiquement p
 - Réaliser une cartographie relationnelle avec Maltego.
 - Proposer des recommandations visant à réduire les risques d'exposition.
 
-## 🛠️ Outils utilisés
+##  Outils utilisés
 
 | Outil | Utilisation |
 |---|---|
@@ -36,7 +36,7 @@ L'objectif est de comprendre comment des informations accessibles publiquement p
 | Google Dorks | Recherche avancée de contenus publics indexés |
 | Maltego | Corrélation et représentation graphique des informations |
 
-## 🔍 Méthodologie
+##  Méthodologie
 
 ### Phase 1 — Collecte d'informations OSINT
 
@@ -81,7 +81,7 @@ La disponibilité publique de certaines informations professionnelles peut accro
 
 Le croisement de sources publiques peut révéler des relations et dépendances qui ne sont pas immédiatement visibles lorsqu'une information est étudiée seule.
 
-## 🛡️ Recommandations de sécurité
+##  Recommandations de sécurité
 
 À partir des risques étudiés, plusieurs mesures générales peuvent être proposées :
 
@@ -93,7 +93,7 @@ Le croisement de sources publiques peut révéler des relations et dépendances 
 - Limiter la publication d'informations organisationnelles sensibles.
 - Mettre en place une veille continue sur les vulnérabilités et les actifs exposés.
 
-## 📚 Compétences développées
+##  Compétences développées
 
 - Open Source Intelligence (OSINT).
 - Reconnaissance passive.
@@ -104,11 +104,11 @@ Le croisement de sources publiques peut révéler des relations et dépendances 
 - Rédaction de recommandations de cybersécurité.
 - Respect des principes éthiques de la recherche en sécurité.
 
-## 📁 Documentation
+##  Documentation
 
 Les captures d'écran anonymisées, la cartographie et une synthèse du rapport pourront être ajoutées progressivement dans les dossiers du dépôt.
 
-## ⚖️ Avertissement
+##  Avertissement
 
 Ce dépôt présente un travail académique indépendant. Il n'est ni affilié à TEHTRIS ni approuvé par cette entreprise.
 
@@ -116,7 +116,7 @@ Les informations techniques mentionnées correspondent à des observations effec
 
 Les informations personnelles et les détails techniques sensibles ne sont pas publiés.
 
-## 👨‍💻 Auteur
+##  Auteur
 
 **Ezekiel BOUNDA DJIKUI**  
 Étudiant ingénieur en cybersécurité — EFREI Paris  
