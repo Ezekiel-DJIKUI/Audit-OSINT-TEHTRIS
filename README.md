@@ -1,4 +1,4 @@
-# 🔎 Audit OSINT — Analyse de la surface d'exposition de TEHTRIS
+#  Audit OSINT — Analyse de la surface d'exposition de TEHTRIS
 
 ![Cybersécurité](https://img.shields.io/badge/Domaine-Cybersécurité-blue)
 ![OSINT](https://img.shields.io/badge/Spécialité-OSINT-green)
