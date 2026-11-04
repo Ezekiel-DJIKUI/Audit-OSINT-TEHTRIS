@@ -81,6 +81,18 @@ La disponibilité publique de certaines informations professionnelles peut accro
 
 Le croisement de sources publiques peut révéler des relations et dépendances qui ne sont pas immédiatement visibles lorsqu'une information est étudiée seule.
 
+### Cartographie OSINT avec Maltego
+
+La cartographie réalisée avec Maltego permet de visualiser
+les relations entre les différentes informations publiques
+collectées au cours de l'analyse.
+
+Elle met en évidence les liens entre les domaines,
+les sous-domaines, les infrastructures réseau et
+les fournisseurs d'hébergement.
+
+![Cartographie OSINT avec Maltego](
+
 ##  Recommandations de sécurité
 
 À partir des risques étudiés, plusieurs mesures générales peuvent être proposées :
