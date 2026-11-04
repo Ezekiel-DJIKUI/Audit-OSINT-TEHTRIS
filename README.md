@@ -91,7 +91,7 @@ Elle met en évidence les liens entre les domaines,
 les sous-domaines, les infrastructures réseau et
 les fournisseurs d'hébergement.
 
-![Cartographie OSINT avec Maltego](
+![Cartographie OSINT avec Maltego](captures/cartographie-maltego.png)
 
 ##  Recommandations de sécurité
 
