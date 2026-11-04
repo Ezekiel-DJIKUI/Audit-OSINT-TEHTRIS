@@ -61,6 +61,31 @@ L'utilisation de Maltego a permis de représenter les liens entre :
 
 Cette démarche permet de passer d'une collecte de données isolées à une vision structurée de la surface d'exposition.
 
+### Cartographie des données avec Maltego
+
+Dans le cadre de ce projet, j'ai utilisé **Maltego** pour
+représenter graphiquement les informations collectées
+lors de la phase de reconnaissance passive.
+
+Cette cartographie permet notamment de :
+
+- Visualiser les relations entre les domaines et sous-domaines.
+- Identifier les liens entre les différentes entités.
+- Corréler les informations issues des outils OSINT.
+- Comprendre la structure de la surface d'exposition numérique.
+
+#### Résultat de la cartographie
+
+![Cartographie OSINT avec Maltego](captures/cartographie-maltego.png)
+
+**Analyse :** cette représentation graphique permet
+de transformer des informations isolées en une vue
+relationnelle de l'environnement numérique étudié.
+
+Elle facilite l'identification des dépendances et
+l'interprétation des risques potentiels liés à
+l'exposition d'informations publiques.
+
 ### Phase 3 — Analyse des risques
 
 L'étude a permis d'examiner plusieurs catégories de risques potentiels :
@@ -80,18 +105,6 @@ La disponibilité publique de certaines informations professionnelles peut accro
 **4. Corrélation des informations**
 
 Le croisement de sources publiques peut révéler des relations et dépendances qui ne sont pas immédiatement visibles lorsqu'une information est étudiée seule.
-
-### Cartographie OSINT avec Maltego
-
-La cartographie réalisée avec Maltego permet de visualiser
-les relations entre les différentes informations publiques
-collectées au cours de l'analyse.
-
-Elle met en évidence les liens entre les domaines,
-les sous-domaines, les infrastructures réseau et
-les fournisseurs d'hébergement.
-
-![Cartographie OSINT avec Maltego](captures/cartographie-maltego.png)
 
 ##  Recommandations de sécurité
 
